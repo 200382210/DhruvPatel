@@ -94,18 +94,18 @@ height: 250px;
 .work{
 
 width: 100%;  
-height: 300px;
-padding: 42px 42px 42px 42px ; 
+height: 275px;
+padding: 10px 10px 10px 10px ; 
 background: #eee;
 text-align: center;
 }
 section .work .btn {
 font: 16px Helvetica, Arial,Sans-Serif;
-margin: 0px;
+margin: -5 px;
 }
 section .work .btn a {
 display: block;
-padding: 17px 7px 7px 7px;
+padding: 10px 7px 7px 7px;
 background: url(blueviolet);
 font-weight: bold;
 text-align: center;
@@ -206,5 +206,6 @@ footer{
 font: 16px Helvetica, Arial,Sans-Serif;
 width: 100%;  
 }
+
 
 
