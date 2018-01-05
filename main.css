@@ -21,6 +21,7 @@ background-position:center ;
 width:100%;
 height:700px;
 }    
+
 .center { 
 font: 16px Helvetica, Arial,Sans-Serif;   
 color:black;
@@ -70,15 +71,7 @@ padding: 10px 10px 10px 10px;
 height: 250px;
 }
 
-.parallax {
-    background-image: url("images/paralax.jpg");
-    height: 300px;
-    padding: 10px 10px 10px 10px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 
 section img{
 height: 200px;
@@ -95,17 +88,16 @@ height: 250px;
 
   
 height: 275px;
-padding: 10px 10px 10px 10px ; 
+padding: 20px 20px 20px 20px ; 
 background: #eee;
 text-align: center;
 }
 section .work .btn {
 font: 16px Helvetica, Arial,Sans-Serif;
-margin: -5 px;
+margin: -10 px;
 }
 section .work .btn a {
 display: block;
-padding: 10px 7px 7px 7px;
 background: url(blueviolet);
 font-weight: bold;
 text-align: center;
@@ -152,7 +144,7 @@ input[type=submit]:hover {
 .form {
     border-radius: 5px;
     background-color: #f2f2f2;
-    padding: 10px 20px 20px 20px ;
+    padding: 10px 10px 10px 10px ;
 }
 
 
@@ -180,13 +172,11 @@ color: black;
     color: var(--base);
   }
 
-  /*
-    misc styles, nothing to do with CSS variables
-  */
+
 
   .scripting {/* styling the body section*/
     text-align: center;
-    background: #193549;
+    background: #a5a7a8;
     color: white;
     font-family: 'helvetica neue', sans-serif;
     font-weight: 10;
